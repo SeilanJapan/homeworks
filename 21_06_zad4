@@ -1,0 +1,8 @@
+<?php
+	$pricelv = 10;
+	$value = 1.73098;
+	$pricedollar = $pricelv / $value; 
+
+	echo "Price: $pricelv lv.<br/>";
+	print "Price: $ $pricedollar";
+?>
