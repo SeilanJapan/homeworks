@@ -1,0 +1,17 @@
+<?php
+	$myBool = true; 
+	echo gettype($myBool);
+		echo "<br/>";
+
+	$myInteger = 11; 
+	echo gettype($myInteger);
+		echo "<br/>";
+
+	$myDouble = 3.8; 
+	echo gettype($myDouble);
+		echo "<br/>";
+
+	$myString = "Text"; 
+	echo gettype($myString);
+		echo "<br/>";
+?>
