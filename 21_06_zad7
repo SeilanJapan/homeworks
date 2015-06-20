@@ -1,0 +1,9 @@
+<?php
+	$a = 4;
+	$b = 11;
+	echo "a = $a and b=$b <br/>";
+	
+	$a == $b;
+	$b == $a;
+	echo " a = $b and b=$a <br/>";
+?>
