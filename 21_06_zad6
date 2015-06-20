@@ -1,0 +1,5 @@
+<?php
+	$films = array("Pretty woman" => 'Julia Robarts', "Rambo" => 'Silvester Staloun', "Hacker" => 'Chris Hemsworth', "Divergents" => 'Theo James', "Titanic" => 'Leonardo Dicaprio');
+	print "Titanic: {$films['Titanic']}";
+	print "<br/>Hacker: {$films['Hacker']}";
+?>
