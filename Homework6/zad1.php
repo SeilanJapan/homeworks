@@ -5,9 +5,10 @@
 
 	$q = array();
 
-	for($i = 17; $i >= 5; $i--){
-		$q[$i] = $i+1;
-		echo $q[$i] . ' ';
+	$sum = 0;
+	for($i = 12; $i >= 0; $i--){
+		$sum = $i + 6;
+		echo $sum . " ";
 	}
 
 ?>
