@@ -14,8 +14,8 @@
 				<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 		</head> 
 		<body>
-			<img src="dog.jpg" alt="dog" class="img-circle img-responsive">
-			<img src="cat.jpg" alt="cat" class="img-circle img-responsive">
+			<img src="http://www.catsaroundtheglobe.com/wp-content/uploads/lil_bub_the_cat-250x250.jpg" alt="dog" class="img-circle img-responsive">
+			<img src="http://s3-media2.fl.yelpcdn.com/bphoto/remrqvVemG5YM3Z0vH4FuA/ls.jpg" alt="cat" class="img-circle img-responsive ">
 		</body>
 
 </html>
