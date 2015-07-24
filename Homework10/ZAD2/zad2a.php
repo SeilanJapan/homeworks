@@ -47,7 +47,7 @@
 					<td>Weight</td>
 					<td>Status</td>
 					<td>Edit</td>
-					<td>Delet</td>
+					<td>Delete</td>
 				</tr>";
 		if (mysqli_num_rows($result)>0) {
 			while ($row = mysqli_fetch_assoc($result)) {
